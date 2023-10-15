@@ -1,4 +1,4 @@
-import { Sidebar } from "lucide-react";
+import { Sidebar } from "./_components/Sidebar"
 
 const DashboardLayout = ({children} : {
     children: React.ReactNode
